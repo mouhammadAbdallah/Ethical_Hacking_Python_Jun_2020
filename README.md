@@ -2,7 +2,7 @@
 Jan 2020 – Mar 2020
 
 
-Project descriptionethical hacking with python:
+### Project description:
 * ports scanning
 * SSH & FTP
 * password cracking
